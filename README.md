@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**YanShuHao314/YanShuHao314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这里是盐鸡，[氢软SimSoft](https://simsoft.top)的开发者~
 
-Here are some ideas to get you started:
+一只鸽子，经常咕咕咕，欢迎催更（
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我的个人主页→[点我(/▽＼)](https://yanji.fun)，包含了我正在开发的所有项目，欢迎来访！
+
+如果我的项目有帮助到你，就点个Star支持一下嘛q(≧▽≦q)
+
+![](https://github-readme-stats.vercel.app/api?username=YanShuHao314&show_icons=true)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YanShuHao314)
