@@ -9,4 +9,3 @@
 如果我的项目有帮助到你，就点个Star支持一下嘛(o゜▽゜)o☆
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YanJi314)
-![](https://github-readme-stats.vercel.app/api?username=YanJi314&show_icons=true)
