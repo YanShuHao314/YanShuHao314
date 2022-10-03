@@ -1,6 +1,8 @@
 # Hello!
 
-这里是盐鸡，主攻Web开发，[氢软SimSoft](https://simsoft.top)的开发者~
+这里是盐鸡，主攻Web开发。
+
+[氢软SimSoft](https://simsoft.top)的开发者，[@NLR-DevTeam](https://github.com/NLR-DevTeam)成员
 
 不太勤快，项目经常咕咕咕，欢迎前来催更(ﾟДﾟ*)ﾉ
 
