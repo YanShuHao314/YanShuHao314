@@ -6,7 +6,7 @@
 
 你好，这里是 YanJi，业余 Web 开发者 ~
 
-- [NLR DevTeam](https://github.com/NLR-DevTeam) 联合创始者 & 成员
+- [NLR DevTeam](https://www.nlrdev.top) 联合创始者 & 成员
 - [草图大全](https://grass.nlrdev.top) 建立者 & 官网及接口开发者
 - [Simsv Studio 氢软](https://simsoft.top) 建立者 & 开发者
 
