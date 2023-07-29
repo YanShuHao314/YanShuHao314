@@ -1,12 +1,21 @@
 # Hello!
+[![](https://github.com/YanJi314/YanJi314/assets/63778412/f35d01f7-7768-4385-a24d-462c1c6f46f7)](https://i.simsv.com/)
 
-这里是盐鸡，主攻Web开发。
 
-[氢软SimSoft](https://simsoft.top)的开发者，[@NLR-DevTeam](https://github.com/NLR-DevTeam)成员
+# Introduction
 
-不太勤快，项目经常咕咕咕，欢迎前来催更(ﾟДﾟ*)ﾉ
+你好，这里是 YanJi，业余 Web 开发者 ~
 
-我的个人主页→[点我(/▽＼)](https://i.simsoft.top)，包含了我正在开发的所有项目，欢迎来访！
+- [Simsv Studio 氢软](https://simsoft.top) 开发者
+- [NLR DevTeam](https://github.com/NLR-DevTeam) 联合创始
+- [草图大全](https://grass.nlrdev.top) 官网及接口开发者
 
-如果我的项目有帮助到你，就点个Star支持一下嘛(o゜▽゜)o☆
+我的个人主页 → [i.simsv.com](https://i.simsoft.top)，欢迎来访！
 
+如果我的项目有帮助到你，就点个 Star 支持一下嘛 (o゜▽゜)o☆
+
+# Contact Me
+
+- [加入我们的 QQ 社群](https://join.nlrdev.top)
+- [关注我~~不咋更新~~的 B 站账号](https://join.nlrdev.top)
+- [给我发送电子邮件](mailto:ysh@simsoft.top)
