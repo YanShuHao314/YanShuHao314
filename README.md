@@ -10,7 +10,7 @@
 - [草图大全](https://grass.nlrdev.top) 建立者 & 官网及接口开发者
 - [Simsv Studio 氢软](https://simsoft.top) 建立者 & 开发者
 
-我的个人主页 → [i.simsv.com](https://i.simsoft.top)，欢迎来访！
+我的个人主页 → [i.simsv.com](https://i.simsv.com)，欢迎来访！
 
 如果我的项目有帮助到你，就点个 Star 支持一下嘛 (o゜▽゜)o☆
 
