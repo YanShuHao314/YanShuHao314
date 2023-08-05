@@ -1,6 +1,5 @@
 # Hello!
-[![](https://github.com/YanJi314/YanJi314/assets/63778412/f35d01f7-7768-4385-a24d-462c1c6f46f7)](https://i.simsv.com/)
-
+<picture><img src="https://github.com/YanJi314/YanJi314/assets/63778412/f35d01f7-7768-4385-a24d-462c1c6f46f7"></picture>
 
 # Introduction
 
