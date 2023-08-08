@@ -1,5 +1,5 @@
 # Hello!
-<picture><img src="https://github.com/YanJi314/YanJi314/assets/63778412/f35d01f7-7768-4385-a24d-462c1c6f46f7"></picture>
+<img src="https://github.com/YanJi314/YanJi314/assets/63778412/f35d01f7-7768-4385-a24d-462c1c6f46f7" width="100%">
 
 # Introduction
 
