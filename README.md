@@ -6,8 +6,7 @@
 你好，这里是 YanJi，业余 Web 开发者 ~
 
 - [NLR DevTeam](https://www.nlrdev.top) 联合创始者 & 成员
-- [草图大全](https://grass.nlrdev.top) 建立者 & 官网及接口开发者
-- [Simsv Studio 氢软](https://simsoft.top) 建立者 & 开发者
+- [Simsv Software 氢易软件](https://simsoft.top) 建立者 & 开发者
 
 我的个人主页 → [i.simsv.com](https://i.simsv.com)，欢迎来访！
 
@@ -16,5 +15,4 @@
 # Contact Me
 
 - [加入我们的 QQ 社群](https://join.nlrdev.top)
-- [关注我~~不咋更新~~的 B 站账号](https://join.nlrdev.top)
 - [给我发送电子邮件](mailto:ysh@simsoft.top)
